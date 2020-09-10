@@ -8,10 +8,10 @@
 
 The folder contains files that perform the following tasks:
 
-*Fetching tweets from Twitter API using Twitter Developer platform
-*Fetching replies of followers for the particular tweet
-*JSON Parser to parse the response file and modifying fields based on the requirement
-*Datetime util to get the data in the desired time frame
+1. Fetching tweets from Twitter API using Twitter Developer platform
+2. Fetching replies of followers for the particular tweet
+3. JSON Parser to parse the response file and modifying fields based on the requirement
+4. Datetime util to get the data in the desired time frame
 
 **Other information:**
 
@@ -29,5 +29,5 @@ The folder contains files that perform the following tasks:
 
 The folder contains files that perform the following tasks:
 
-*We developed a python script which parses the queries in the query text file sequentially and returns the query results into a new text file for each of the models by running the query url.
-*JSON to TREC evaluating script
+1. We developed a python script which parses the queries in the query text file sequentially and returns the query results into a new text file for each of the models by running the query url.
+2. JSON to TREC evaluating script
